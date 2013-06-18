@@ -1,0 +1,17 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1369189422204 827 942aae5cb3d9c48094fcfa020cbf43cd06b14ee7 C:\Users\Adam\repos\CallManager\CallManager\build\classes\debug\com\runnirr\callmanager\MainActivity.class
+1369189422215 422 7d056b833ac71ed72b49513594823d2596cedbbf C:\Users\Adam\repos\CallManager\CallManager\build\classes\debug\com\runnirr\callmanager\R$drawable.class
+1369194365308 418 2552671b84c28751f05a2b794422cc4275fe5c33 C:\Users\Adam\repos\CallManager\CallManager\build\classes\debug\com\runnirr\callmanager\R$layout.class
+1369189365701 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 C:\Users\Adam\repos\CallManager\CallManager\libs\android-support-v4.jar
+1369194365310 403 4bf77e58727c6f9e77ea5654900abb001f1add2e C:\Users\Adam\repos\CallManager\CallManager\build\classes\debug\com\runnirr\callmanager\R$menu.class
+1369189422229 355 45621b1b30492ab0c8f2c2f564404ec2d335f696 C:\Users\Adam\repos\CallManager\CallManager\build\classes\debug\com\runnirr\callmanager\BuildConfig.class
+1369235565903 5425 2789e6d6344d4a232f3aad0416a8bf189d859fbc C:\Users\Adam\repos\CallManager\CallManager\build\classes\debug\com\runnirr\callmanager\OutgoingCallReceiver.class
+1369189422214 476 3bc765420c5e1898b19f910a4364cd7f5a6dd032 C:\Users\Adam\repos\CallManager\CallManager\build\classes\debug\com\runnirr\callmanager\R$dimen.class
+1369194365314 446 acd1957e5845a0b8059850ddfc17dc969f6dc70c C:\Users\Adam\repos\CallManager\CallManager\build\classes\debug\com\runnirr\callmanager\R$style.class
+1369194365312 487 e3fbabbffc215f5312a84fcb43d99228d3edb65b C:\Users\Adam\repos\CallManager\CallManager\build\classes\debug\com\runnirr\callmanager\R$string.class
+1369194365317 727 17c6e7b5aace42409efcb2744ffc9421412de1d9 C:\Users\Adam\repos\CallManager\CallManager\build\classes\debug\com\runnirr\callmanager\R.class
+1369189422212 355 7e254068a2dbd581f1ec6cc49546e72bc061f634 C:\Users\Adam\repos\CallManager\CallManager\build\classes\debug\com\runnirr\callmanager\R$attr.class
+1369235565941 1283 75e7ebcd326d3f3eded1921aac24387ecf60d660 C:\Users\Adam\repos\CallManager\CallManager\build\classes\debug\com\runnirr\callmanager\PhoneActivity.class
+1369194365304 440 ffe8b7853ea435144684c163aaa18e556a499f59 C:\Users\Adam\repos\CallManager\CallManager\build\classes\debug\com\runnirr\callmanager\R$id.class
